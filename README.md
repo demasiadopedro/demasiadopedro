@@ -46,10 +46,12 @@
 
 <div align="center" style="display: flex; flex-direction: column; gap: 50px;" >
   <img src="https://streak-stats.demolab.com?user=demasiadopedro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  
-  <a href="https://github.com/anuraghazra/convoychat">
+  <!-- 
+   <a href="https://github.com/anuraghazra/convoychat">
     <img height="197" src="https://github-readme-stats.vercel.app/api/top-langs?username=demasiadopedro&layout=donut&hide=rust&theme=tokyonight&locale=pt-BR" />
   </a>
+  -->
+ 
 
 </div>
 
